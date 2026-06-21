@@ -50,4 +50,38 @@ Using Xcode-beta (27) to open the project.
 
 ## Demo
 
-Coming soon.
+Click any image to open a larger preview.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="assets/demo/app-ui.png">
+        <img src="assets/demo/app-ui.png" width="180" alt="App UI demo" />
+      </a>
+      <br />
+      <sub>Choose an image from your photo library and start a Live Activity with a single tap (green button).</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="assets/demo/dynamic-island-compact.png">
+        <img src="assets/demo/dynamic-island-compact.png" width="180" alt="Compact Dynamic Island demo" />
+      </a>
+      <br />
+      <sub>The selected image appears in the compact Dynamic Island while the Live Activity is running.</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="assets/demo/dynamic-island-expanded.png">
+        <img src="assets/demo/dynamic-island-expanded.png" width="180" alt="Expanded Dynamic Island demo" />
+      </a>
+      <br />
+      <sub>Press and hold the Dynamic Island to view an enlarged version of the selected image.</sub>
+    </td>
+  </tr>
+</table>
+
+### Video
+
+<a href="assets/demo/demo-video.mp4">
+  <img src="assets/demo/demo-video-poster.png" width="220" alt="Demo video preview" />
+</a>
+
+[Watch the full demo video](assets/demo/demo-video.mp4)
