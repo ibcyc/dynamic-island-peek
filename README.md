@@ -1,19 +1,30 @@
-# DynamicIslandPeek
+# Dynamic Island Peek
 
-DynamicIslandPeek is a small personal iOS app that lets you choose an image and show it in Dynamic Island with a Live Activity.
+This is a lightweight iOS app that lets you display your favorite image in the Dynamic Island using a Live Activity. It's a fun little project that keeps a photo just a tap away.
 
 ## Features
 
-- Pick an image from Photos
-- Save a thumbnail in an App Group container
-- Start and stop a persistent Live Activity
-- Show the selected image in Dynamic Island
+* Choose an image from your photo library
+* Generate and save a thumbnail in an App Group container
+* Start and stop a persistent Live Activity
+* Display the selected image in the Dynamic Island
+
+## To Do
+
+* Support multiple favorite images and switch between them with left and right swipe gestures.
+* Support animated images.
+
+## Future Plans
+
+* Add an in-app crop editor when importing photos, allowing users to preview the visible display area before saving.
+* Provide a small collection of built-in templates.
+* Add a first-launch onboarding experience for setup and basic usage.
 
 ## Requirements
 
-- Xcode 26 or newer
-- iOS 17 or newer
-- A physical iPhone that supports Dynamic Island
+* Xcode 26 or newer
+* iOS 17 or newer
+* A physical iPhone that supports Dynamic Island
 
 ## Setup
 
@@ -34,4 +45,9 @@ Use an App Group that belongs to your own Apple developer account.
 
 ## Notes
 
-Dynamic Island and Live Activities require a Widget Extension target. The project does not include a Home Screen widget.
+Dynamic Island content is powered by Live Activities, which require a Widget Extension target.
+Using Xcode-beta (27) to open the project.
+
+## Demo
+
+Coming soon.
